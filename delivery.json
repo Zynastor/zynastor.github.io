@@ -1,27 +1,17 @@
 {
-    "intl_delivery":[
+  "intl_delivery": [
     {
-        "version": "V2",
-        "order_number": "",
-        "address": "2207 SW 20th Ave, Cape Coral, FL 33991, USA",
-        "additional_address": "",
-        "name": "Matthew Anderson",
-        "recipient_code": "ca12f545-c0ba-4ae4-9f88-2c07706ae0a9",
-        "delivery_type": "P51",
-        "timestamp": 1728044838431
+      "order_number": "395679FE78F241",
+      "address": "2207 SW 20th Ave, Cape Coral, FL 33991, USA",
+      "name": "Matthew Anderson"
     },
     {
-        "version": "V2",
-        "order_number": "05340F4FED704C",
-        "address": "",
-        "additional_address": "",
-        "name": "Grace Robinson",
-        "recipient_code": "199d8c71-2d07-4070-a00b-a8b28895223d",
-        "lat": 26.5934104,
-        "lng": -82.0169455,
-        "delivery_type": "J54",
-        "timestamp": 1728044838904
+      "order_number": "05340F4FED704C",
+      "address": "3123 SW 21st Pl, Cape Coral, FL 33914, USA",
+      "name": "Grace Robinson",
+      "lat": 26.5934104,
+      "lng": -82.0169455
     }
-],
-    "status":"OK"
+  ],
+  "status": "OK"
 }
